@@ -51,7 +51,7 @@ cohort2026/
 2. Scroll through the page to view all sections
 3. The page displays all content in a linear, easy-to-read format
 
-## Technical Details
+## TECHNOLOGIES USED
 
 - **HTML**
 
@@ -114,19 +114,6 @@ cohort2026/
 - Copyright year
   ![alt text](images/image-7.png)
 
-## Evaluation Checklist
-
-- ✅ Includes all required sections (header, about, skills, experience, projects, education, contact)
-- ✅ Uses semantic HTML structure
-- ✅ Tables for Experience and Education with proper formatting
-- ✅ No CSS framework dependencies
-- ✅ Clean, professional layout
-- ✅ Easy to customize with your own data
-- ✅ Responsive design
-- ✅ Works in all modern browsers
-- ✅ Single-page layout
-- ✅ README with setup and usage instructions
-
 ---
 
 ## License
@@ -135,4 +122,4 @@ cohort2026/
 
 ---
 
-**Last Updated:** January 30, 2026
+**Last Updated:** January 29, 2026
